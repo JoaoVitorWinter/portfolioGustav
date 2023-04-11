@@ -151,6 +151,7 @@ body {
 @media (max-width: 768px) {
     .apresentacao {
         flex-direction: column-reverse;
+        gap: 4rem;
     }
 
     .apresentacao_conteudo {
